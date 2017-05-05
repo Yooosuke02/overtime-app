@@ -15,7 +15,9 @@ x AdminUser -> STI
 - Needs to be documented if employee did not log overtime
 
 ## UI:
-- Bootstrap -> formatting
+- Bootstrap -> 
+- Icons from Font Awesome
+- Update the styles for forms
 
 
 ## Refactor TODOs:
